@@ -1,0 +1,38 @@
+.apresentacao {
+margin: auto;
+padding: auto;
+width: auto;
+height: auto;
+}
+
+.apresentacao__conteudo {
+display: flex;
+align-items: baseline;
+justify-content: baseline;
+background-color: aquamarine;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+}
+
+.apresentacao__lista {
+background-color: rebeccapurple;
+}
+
+.apresentacao__lista__item {
+display: flex;
+text-align: center;
+align-items: baseline;
+flex: auto;
+border: aqua;
+justify-content: space-between;
+flex-direction: column;
+}
+
+.apresentacao__link {
+background-color: orange;
+}
+
+.apresentacao__imagem {
+width: auto;
+height: auto;
+}

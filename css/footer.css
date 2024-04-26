@@ -1,0 +1,14 @@
+.rodape {
+    width: auto;
+    height: auto;
+    padding: auto;
+    margin: auto;
+}
+
+.rodape__conteudo {
+ display: flex;
+ text-align: center;
+ align-items: baseline;
+ justify-content: baseline;
+ flex-direction: column;   
+}

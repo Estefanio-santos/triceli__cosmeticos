@@ -1,0 +1,35 @@
+.cabecalho {
+padding: auto;
+width: auto;
+height: auto;    
+background-color: black;
+}
+
+.cabecalho__container {
+display: flex;
+text-align: center;
+justify-content: space-between;
+flex-direction: column;
+}
+
+.cabecalho__titulo {
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: auto;
+justify-content: center;
+}
+
+.cabecalho__imagem {
+    justify-content: baseline;
+    width: auto;
+    height: auto;
+}
+
+.cabecalho__link {
+    flex-direction: column;
+    background-color: gold;
+    border: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
